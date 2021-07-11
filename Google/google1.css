@@ -1,0 +1,115 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div1{
+    border: 1px solid #e5e7eb;
+    width: 500px;
+    margin-left: 500px;
+    margin-top: 70px;
+    padding-top: 30px;
+    padding-bottom: 70px;
+
+}
+#div2{
+    margin-left: 460px;
+}
+img{
+    width: 120px;
+    height: 40px;
+    margin-left: 200px;
+}
+#p1{
+    margin-left: 210px;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#p2{
+    margin-left: 150px;
+    font-size: 20px;
+}
+input{
+    width: 350px;
+    height: 30px;
+    padding: 15px;
+    margin-left: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px solid #e8eaec;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    outline: none;
+
+}
+#a1{
+    margin-left: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+    color: #1773eb;
+}
+#p3{
+    font-size: 17px;
+    margin-left: 50px;
+    margin-top: 57px;
+    opacity: 1;
+    margin-bottom: 3px;
+}
+#a2{
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 50px;
+    font-weight: bold;
+    color: #1773eb;
+}
+#a3{
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: #1773eb;
+    font-weight: bold;
+}
+#a4{
+    text-decoration: none;
+    color: #5c5959;
+    font-size: 16px;
+}
+button{
+    margin-left: 180px;
+    background-color: #1773eb;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    width: 95px;
+    border: 1px solid #1773eb;
+    padding: 10px;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+
+label{
+    font-size: 15px;
+    opacity: 1;
+}
+select{
+    border: 1px solid white;   
+}
+ul{
+    list-style-type: none;
+    margin-top: 30px;
+}
+li{
+    float: left;
+}
+#help{
+    margin-left: 130px;
+}
+#privacy{
+    margin-left: 30px;
+}
+#terms{
+    margin-left: 30px;
+}
